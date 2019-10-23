@@ -1,0 +1,26 @@
+{
+  "name": "uclax_wcib_week_5_part_1",
+  "version": "1.0.0",
+  "description": "UCLAx Web Coding Intensive Bootcamp week 5, part 1 project files.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-node-sass": "^1.0.1",
+    "node-sass": "^4.11.0",
+    "npm": "^6.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
