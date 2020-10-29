@@ -29,7 +29,7 @@ body {
 body {
   display: -ms-flexbox;
   display: flex;
-  color: #fff;
+  color: black;
   background-image: url("../images/background 2-02.png");
   background-size: auto;
   background-repeat: no-repeat;
